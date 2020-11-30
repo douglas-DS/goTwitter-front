@@ -2,9 +2,12 @@
 
 ## Description
 
-GoTwitter frontend application who provide the web page, all components and the user interface, built entirely with react.js.
+This is a small project only for study purpose that was built to try replicate some of the mains functionality 
+of the original [Twitter](https://twitter.com).
 
-Install and run [backend service](https://github.com/douglas-DS/goTwitter-backend), it's required to run the front application.
+This project is the frontend application that provides the web interface and components. It was built entirely with javascript (Ecma specification) and react.
+
+Before getting started just clone and follow the readme of the [backend application](https://github.com/douglas-DS/goTwitter-backend). It's required to properly run all the functionality of the frontend application.
 
 ## Available Scripts
 
